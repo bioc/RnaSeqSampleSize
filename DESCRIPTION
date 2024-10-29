@@ -1,7 +1,7 @@
 Package: RnaSeqSampleSize
 Type: Package
 Title: RnaSeqSampleSize
-Version: 2.16.0
+Version: 2.17.0
 Date: 2021-12-02
 Authors@R: c(person("Shilin Zhao", "Developer", role = c("aut", "cre"),
                      email = "zhaoshilin@gmail.com"),
